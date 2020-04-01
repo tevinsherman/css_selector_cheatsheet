@@ -1,0 +1,34 @@
+body {
+  background-color: wheat;
+  
+}
+table {
+  border: 1px solid black;
+  text-align: center;
+}
+
+ td, th {
+  border: 1px solid black;
+  text-align: center;
+  background-color: coral;
+  text-align: center;
+  margin: 200px;
+  padding: 50px;
+  color: azure;
+    
+}
+
+h1 {
+  font-family: fantasy;
+  font-weight: bold;
+  text-align: center;
+  
+}
+
+p {
+  font-family: fantasy;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  
+}
